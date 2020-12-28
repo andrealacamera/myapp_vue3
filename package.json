@@ -9,8 +9,8 @@
   },
   "dependencies": {
     "axios": "^0.19.2",
-    "core-js": "^3.8.0",
-    "uuid": "^8.3.1",
+    "core-js": "^3.8.1",
+    "uuid": "^8.3.2",
     "vue": "^2.6.12"
   },
   "devDependencies": {
